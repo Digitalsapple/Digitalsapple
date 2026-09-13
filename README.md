@@ -1,6 +1,6 @@
 ## Hi there!
 
-I'm [Boyan](https://www.linkedin.com/in/boyan-wei-12437b29a/), an electrical engineering student @ [University of Waterloo](https://uwaterloo.ca/).
+I'm Boyan, an electrical engineering student @ [University of Waterloo](https://uwaterloo.ca/).
 
 ## Featured Projects
 
